@@ -1,0 +1,24 @@
+#navBar{
+    height: 60px;
+    width: 90%;
+    display: flex;
+    margin: auto;
+    text-align: center;
+}
+#navBar>div{
+
+    text-align: center;
+    height: 30px;
+    margin-top: 25px;
+    margin: auto;
+    justify-content: right;
+    width: 20%;
+    background-color: teal;
+}
+body{
+    background-color: black;
+    color: white;
+}
+a{
+    color: white;
+}
